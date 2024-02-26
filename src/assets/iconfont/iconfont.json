@@ -1,0 +1,58 @@
+{
+  "id": "4443828",
+  "name": "GuanWang",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5896337",
+      "name": "19故障检测",
+      "font_class": "guzhangjiance",
+      "unicode": "e655",
+      "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "7517957",
+      "name": "运行状态",
+      "font_class": "yunhangzhuangtai",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "16619136",
+      "name": "more",
+      "font_class": "more",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "20949932",
+      "name": "管网水位监测",
+      "font_class": "guanwangshuiweijiance",
+      "unicode": "e859",
+      "unicode_decimal": 59481
+    },
+    {
+      "icon_id": "36448385",
+      "name": "运行检测",
+      "font_class": "yunhangjiance",
+      "unicode": "e864",
+      "unicode_decimal": 59492
+    },
+    {
+      "icon_id": "10183528",
+      "name": "管网",
+      "font_class": "guanwang",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "17930624",
+      "name": "测量工具",
+      "font_class": "celianggongju",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}

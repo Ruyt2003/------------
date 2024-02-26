@@ -1,0 +1,1848 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7477907394519,
+          34.713481367344635
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "FID_1" : 1,
+        "StationNam" : "加州第一城",
+        "event" : "管道结垢",
+        "ID" : "20231",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65371089936967,
+          34.75377425580902
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "FID_1" : 2,
+        "StationNam" : "二马路解放路",
+        "event" : "管道破裂",
+        "ID" : "20232",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.61706461935611,
+          34.733807789397432
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "FID_1" : 3,
+        "StationNam" : "汝河路工人路站",
+        "event" : "管道堵塞",
+        "ID" : "20233",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70654058923721,
+          34.721609192471433
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "FID_1" : 4,
+        "StationNam" : "航海东路公交站",
+        "event" : "外力破坏",
+        "ID" : "20234",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70952678726933,
+          34.731634637719566
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "FID_1" : 5,
+        "StationNam" : "石化路公交站",
+        "event" : "管道结垢",
+        "ID" : "20235",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.64338256865197,
+          34.77601538900003
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "FID_1" : 6,
+        "StationNam" : "南阳路黄河路",
+        "event" : "管道破裂",
+        "ID" : "20236",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63905728869898,
+          34.697983448631199
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "FID_1" : 7,
+        "StationNam" : "郑平路贺江路",
+        "event" : "管道漏水",
+        "ID" : "20237",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.78882854615517,
+          34.879492791932442
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "FID_1" : 8,
+        "StationNam" : "S312张桥",
+        "event" : "管道堵塞",
+        "ID" : "20238",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66860369941914,
+          34.820670061557678
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "FID_1" : 9,
+        "StationNam" : "国基路沙门村",
+        "event" : "管道结垢",
+        "ID" : "20239",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.91886939400608,
+          34.805102687993937
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "FID_1" : 10,
+        "StationNam" : "刘集",
+        "event" : "管道堵塞",
+        "ID" : "202310",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75592708860758,
+          34.721906551867178
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "FID_1" : 11,
+        "StationNam" : "经开中心广场",
+        "event" : "管道堵塞",
+        "ID" : "202311",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.73961479375247,
+          34.786928367233216
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "FID_1" : 12,
+        "StationNam" : "九如东路东风东路",
+        "event" : "管道破裂",
+        "ID" : "202312",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66357156587303,
+          34.773533592980677
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "FID_1" : 13,
+        "StationNam" : "经八路纬五路",
+        "event" : "管道破裂",
+        "ID" : "202313",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66005724627755,
+          34.72147308778252
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "FID_1" : 14,
+        "StationNam" : "航海路碧云路站",
+        "event" : "管道破裂",
+        "ID" : "202314",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75891250880201,
+          34.772668560095354
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "FID_1" : 15,
+        "StationNam" : "正光路东风南路",
+        "event" : "管道堵塞",
+        "ID" : "202315",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68771588810966,
+          34.707190074256708
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "FID_1" : 16,
+        "StationNam" : "紫辰路耿庄南路",
+        "event" : "外力破坏",
+        "ID" : "202316",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67771383327862,
+          34.717605144573135
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "FID_1" : 17,
+        "StationNam" : "紫辰路新郑路",
+        "event" : "管道漏水",
+        "ID" : "202317",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62513491698662,
+          34.766101264417841
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "FID_1" : 18,
+        "StationNam" : "嵩山路金水西路",
+        "event" : "管道漏水",
+        "ID" : "202318",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.90449515320064,
+          34.728107764822639
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "FID_1" : 19,
+        "StationNam" : "商都路堤刘路",
+        "event" : "管道破裂",
+        "ID" : "202319",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63807629666661,
+          34.749800706617791
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "FID_1" : 20,
+        "StationNam" : "大学路中原路北",
+        "event" : "管道堵塞",
+        "ID" : "202320",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.37933495600845,
+          34.766181061134191
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "FID_1" : 21,
+        "StationNam" : "电子中专",
+        "event" : "管道结垢",
+        "ID" : "202321",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.55126512614351,
+          34.828809339382623
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "FID_1" : 22,
+        "StationNam" : "雪松路莲花街",
+        "event" : "管道漏水",
+        "ID" : "202322",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63896297005493,
+          34.721489098440543
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "FID_1" : 23,
+        "StationNam" : "航海路大学路",
+        "event" : "管道破裂",
+        "ID" : "202323",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.83530604952489,
+          34.561216694998713
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "FID_1" : 24,
+        "StationNam" : "远航路长安路",
+        "event" : "管道漏水",
+        "ID" : "202324",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7512150994888,
+          34.454049456531131
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "FID_1" : 25,
+        "StationNam" : "牌坊庄村",
+        "event" : "管道堵塞",
+        "ID" : "202325",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.59179264994371,
+          34.806917232399499
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "FID_1" : 26,
+        "StationNam" : "科学大道立交(北三环)",
+        "event" : "管道破裂",
+        "ID" : "202326",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.73552188986568,
+          34.763348438014482
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "FID_1" : 27,
+        "StationNam" : "金水东路黄河南路",
+        "event" : "管道结垢",
+        "ID" : "202327",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63995696014914,
+          34.7553430840819
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "FID_1" : 28,
+        "StationNam" : "建设东路医学院",
+        "event" : "管道破裂",
+        "ID" : "202328",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.54529764876953,
+          34.826418740808478
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "FID_1" : 29,
+        "StationNam" : "石楠路金梭路",
+        "event" : "管道堵塞",
+        "ID" : "202329",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67310923773765,
+          34.863953214292643
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "FID_1" : 30,
+        "StationNam" : "花园路金达路",
+        "event" : "管道堵塞",
+        "ID" : "202330",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62979876900809,
+          34.755099024966555
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "FID_1" : 31,
+        "StationNam" : "炮院",
+        "event" : "管道堵塞",
+        "ID" : "202331",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65768805993577,
+          34.753277270825336
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "FID_1" : 32,
+        "StationNam" : "二七广场正兴街",
+        "event" : "管道结垢",
+        "ID" : "202332",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.73723326819437,
+          34.783270654512727
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "FID_1" : 33,
+        "StationNam" : "农业东路九如东路",
+        "event" : "管道破裂",
+        "ID" : "202333",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62204826366909,
+          34.677345064374883
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "FID_1" : 34,
+        "StationNam" : "嵩山南路柳江路",
+        "event" : "管道结垢",
+        "ID" : "202334",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.60114400322409,
+          34.753794560455191
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "FID_1" : 35,
+        "StationNam" : "岗坡路伏牛路",
+        "event" : "管道破裂",
+        "ID" : "202335",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66189271412173,
+          34.771823552780113
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "FID_1" : 36,
+        "StationNam" : "任寨北街文化路",
+        "event" : "管道破裂",
+        "ID" : "202336",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75939748467101,
+          34.741248344928508
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "FID_1" : 37,
+        "StationNam" : "东风南路永平路",
+        "event" : "管道漏水",
+        "ID" : "202337",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67942457017342,
+          34.806623333644893
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "FID_1" : 38,
+        "StationNam" : "省广播电视中心南门",
+        "event" : "管道破裂",
+        "ID" : "202338",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.57715976454897,
+          34.749161611993131
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "FID_1" : 39,
+        "StationNam" : "中原路西三环",
+        "event" : "管道堵塞",
+        "ID" : "202339",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.41220177204251,
+          34.751047321619559
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "FID_1" : 40,
+        "StationNam" : "中原西路碾徐",
+        "event" : "管道结垢",
+        "ID" : "202340",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.76051397347163,
+          34.417699846772493
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "FID_1" : 41,
+        "StationNam" : "剑桥郡",
+        "event" : "管道堵塞",
+        "ID" : "202341",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.74576089271658,
+          34.392384516092854
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "FID_1" : 42,
+        "StationNam" : "肛肠医院",
+        "event" : "管道结垢",
+        "ID" : "202342",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65845428423006,
+          34.700289450000007
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "FID_1" : 43,
+        "StationNam" : "南三环碧云路站",
+        "event" : "管道结垢",
+        "ID" : "202343",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.54430268742169,
+          34.828211858687766
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "FID_1" : 44,
+        "StationNam" : "河南工业大学站",
+        "event" : "管道堵塞",
+        "ID" : "202344",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.61079702057617,
+          34.738553832576876
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "FID_1" : 45,
+        "StationNam" : "文化宫路陇海路",
+        "event" : "管道漏水",
+        "ID" : "202345",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.76318627427609,
+          34.757083962448846
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "FID_1" : 46,
+        "StationNam" : "东风南路商鼎路",
+        "event" : "管道漏水",
+        "ID" : "202346",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.80467685523497,
+          34.777334651241034
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "FID_1" : 47,
+        "StationNam" : "明理路口",
+        "event" : "管道破裂",
+        "ID" : "202347",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63235409900203,
+          34.797833726505282
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "FID_1" : 48,
+        "StationNam" : "东风路丰乐路",
+        "event" : "管道破裂",
+        "ID" : "202348",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67516924659752,
+          34.76412295299145
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "FID_1" : 49,
+        "StationNam" : "紫荆山人民路",
+        "event" : "管道漏水",
+        "ID" : "202349",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6862334766862,
+          34.78925105445677
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "FID_1" : 50,
+        "StationNam" : "经三路林科路",
+        "event" : "管道破裂",
+        "ID" : "202350",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.76231101425383,
+          34.784903117459208
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "FID_1" : 51,
+        "StationNam" : "熊儿河路相济路",
+        "event" : "管道结垢",
+        "ID" : "202351",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68826418467441,
+          34.810015942401449
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "FID_1" : 52,
+        "StationNam" : "北三环经三路站",
+        "event" : "外力破坏",
+        "ID" : "202352",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68637325961805,
+          34.779820493534615
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "FID_1" : 53,
+        "StationNam" : "经三路红专路",
+        "event" : "管道结垢",
+        "ID" : "202353",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.71545178900205,
+          34.356377183374271
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "FID_1" : 54,
+        "StationNam" : "双楼村",
+        "event" : "外力破坏",
+        "ID" : "202354",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.80204412532542,
+          34.520483356923883
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "FID_1" : 55,
+        "StationNam" : "008县道星港路",
+        "event" : "管道破裂",
+        "ID" : "202355",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6733084753927,
+          34.820670072104988
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "FID_1" : 56,
+        "StationNam" : "国基路花园路西",
+        "event" : "外力破坏",
+        "ID" : "202356",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68631850531264,
+          34.844336002801235
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "FID_1" : 57,
+        "StationNam" : "大河村博物馆",
+        "event" : "外力破坏",
+        "ID" : "202357",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75583184499436,
+          34.845850558238901
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "FID_1" : 58,
+        "StationNam" : "杨金路龙沄路",
+        "event" : "管道堵塞",
+        "ID" : "202358",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.72509698903961,
+          34.391129117118751
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "FID_1" : 59,
+        "StationNam" : "日月同辉转盘",
+        "event" : "外力破坏",
+        "ID" : "202359",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.40358165286153,
+          34.771936674428936
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "FID_1" : 60,
+        "StationNam" : "植物园",
+        "event" : "管道漏水",
+        "ID" : "202360",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.40571216177169,
+          34.788210855686984
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "FID_1" : 61,
+        "StationNam" : "荥阳高中",
+        "event" : "管道漏水",
+        "ID" : "202361",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68381668954839,
+          34.700033768851007
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "FID_1" : 62,
+        "StationNam" : "南三环通站路站",
+        "event" : "管道破裂",
+        "ID" : "202362",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.61956935956857,
+          34.793678727763599
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "FID_1" : 63,
+        "StationNam" : "沙口路东风路",
+        "event" : "管道堵塞",
+        "ID" : "202363",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.02759395108357,
+          34.744605975871288
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "FID_1" : 64,
+        "StationNam" : "雁鸣大道首末站",
+        "event" : "管道结垢",
+        "ID" : "202364",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97165577845693,
+          34.748640805707922
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "FID_1" : 65,
+        "StationNam" : "琼花路广惠街",
+        "event" : "管道破裂",
+        "ID" : "202365",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67269280023153,
+          34.542407303491366
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "FID_1" : 66,
+        "StationNam" : "武岗村",
+        "event" : "管道破裂",
+        "ID" : "202366",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.71617395928546,
+          34.768742185617306
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "FID_1" : 67,
+        "StationNam" : "商务西七街商务外环路",
+        "event" : "管道结垢",
+        "ID" : "202367",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69403187827456,
+          34.772666842477093
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "FID_1" : 68,
+        "StationNam" : "省肿瘤医院",
+        "event" : "管道破裂",
+        "ID" : "202368",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.56345535941705,
+          34.797589393131084
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "FID_1" : 69,
+        "StationNam" : "郑州美术馆",
+        "event" : "管道破裂",
+        "ID" : "202369",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65541892768007,
+          34.867957687318452
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "FID_1" : 70,
+        "StationNam" : "开元路公交站",
+        "event" : "管道破裂",
+        "ID" : "202370",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68161000610985,
+          34.787438211954139
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "FID_1" : 71,
+        "StationNam" : "农业路政七街站",
+        "event" : "管道漏水",
+        "ID" : "202371",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69004193523459,
+          34.796966495738232
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "FID_1" : 72,
+        "StationNam" : "鑫苑路枣庄",
+        "event" : "外力破坏",
+        "ID" : "202372",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63569603125205,
+          34.755810495033117
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "FID_1" : 73,
+        "StationNam" : "医学院",
+        "event" : "管道破裂",
+        "ID" : "202373",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63512057005654,
+          34.74866453108968
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "FID_1" : 74,
+        "StationNam" : "中原路大学路西",
+        "event" : "管道堵塞",
+        "ID" : "202374",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.78014932658512,
+          34.802124519200923
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "FID_1" : 75,
+        "StationNam" : "姚桥路薛岗街",
+        "event" : "管道破裂",
+        "ID" : "202375",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.79615585289598,
+          34.68543109058848
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "FID_1" : 76,
+        "StationNam" : "明理路经南九路",
+        "event" : "管道破裂",
+        "ID" : "202376",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97743283379052,
+          34.685659889862869
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "FID_1" : 77,
+        "StationNam" : "比克大道德惠街",
+        "event" : "管道破裂",
+        "ID" : "202377",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.73239980961935,
+          34.359643760517947
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "FID_1" : 78,
+        "StationNam" : "七里堂社区",
+        "event" : "外力破坏",
+        "ID" : "202378",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.01365680982006,
+          34.726192429530961
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "FID_1" : 79,
+        "StationNam" : "中医院",
+        "event" : "管道破裂",
+        "ID" : "202379",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58566916912973,
+          34.843950339594564
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "FID_1" : 80,
+        "StationNam" : "西三环连霍高速口",
+        "event" : "外力破坏",
+        "ID" : "202380",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.46334408234999,
+          34.677184732891249
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "FID_1" : 81,
+        "StationNam" : "新田城农夫乐园",
+        "event" : "管道漏水",
+        "ID" : "202381",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70045504507831,
+          34.665620312110597
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "FID_1" : 82,
+        "StationNam" : "河南省女子劳教所",
+        "event" : "管道破裂",
+        "ID" : "202382",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58702607083907,
+          34.74872318633475
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "FID_1" : 83,
+        "StationNam" : "交巡警二大队",
+        "event" : "管道破裂",
+        "ID" : "202383",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62178554588068,
+          34.705821659689768
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "FID_1" : 84,
+        "StationNam" : "嵩山路南三环",
+        "event" : "管道破裂",
+        "ID" : "202384",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.73177676137631,
+          34.426612575273744
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "FID_1" : 85,
+        "StationNam" : "行政服务中心",
+        "event" : "管道结垢",
+        "ID" : "202385",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70094865772514,
+          34.78668584751437
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "FID_1" : 86,
+        "StationNam" : "中州大道农业路",
+        "event" : "管道破裂",
+        "ID" : "202386",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67617289959877,
+          34.665738696134838
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "FID_1" : 87,
+        "StationNam" : "南四环中州大道(东行)",
+        "event" : "管道结垢",
+        "ID" : "202387",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58650584961312,
+          34.776193394657476
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "FID_1" : 88,
+        "StationNam" : "西三环西流湖路站",
+        "event" : "管道堵塞",
+        "ID" : "202388",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.52250293263269,
+          34.769005796433824
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "FID_1" : 89,
+        "StationNam" : "元通纺织城",
+        "event" : "管道破裂",
+        "ID" : "202389",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66184663289742,
+          34.811316868591888
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "FID_1" : 90,
+        "StationNam" : "北三环渠西路",
+        "event" : "管道漏水",
+        "ID" : "202390",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.45481162910595,
+          34.598984841979195
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "FID_1" : 91,
+        "StationNam" : "黑峪沟",
+        "event" : "管道结垢",
+        "ID" : "202391",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63110020493322,
+          34.726014887279874
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "FID_1" : 92,
+        "StationNam" : "政通路淮南街",
+        "event" : "管道破裂",
+        "ID" : "202392",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66068792335416,
+          34.780531976210334
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "FID_1" : 93,
+        "StationNam" : "文化路红专路",
+        "event" : "管道破裂",
+        "ID" : "202393",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6795853033933,
+          34.806623036913585
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "FID_1" : 94,
+        "StationNam" : "省广播电视中心南门",
+        "event" : "管道破裂",
+        "ID" : "202394",
+        "状态" : "未处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62757569898888,
+          34.799890391213083
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "FID_1" : 95,
+        "StationNam" : "南阳路张寨",
+        "event" : "管道结垢",
+        "ID" : "202395",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63016705577655,
+          34.728921397376375
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "FID_1" : 96,
+        "StationNam" : "绿云小区东门",
+        "event" : "管道破裂",
+        "ID" : "202396",
+        "状态" : "已处理"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.64855232991648,
+          34.841868427809771
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "FID_1" : 97,
+        "StationNam" : "文化路宏康路",
+        "event" : "外力破坏",
+        "ID" : "202397",
+        "状态" : "已处理"
+      }
+    }
+  ]
+}

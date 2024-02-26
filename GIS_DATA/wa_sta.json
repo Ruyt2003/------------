@@ -1,0 +1,2579 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62221508969688,
+          34.706310683125743
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "FID_1" : 8,
+        "StationNam" : "嵩山路南三环",
+        "percentage" : 67,
+        "level" : 7.9181818181799999,
+        "la1" : 10,
+        "la2" : 12,
+        "la4" : 6.3345454545399997,
+        "la5" : 7.1263636363599998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66852522481122,
+          34.741172550606422
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "FID_1" : 12,
+        "StationNam" : "陇海路南关街站",
+        "percentage" : 86,
+        "level" : 10.1636363636,
+        "la1" : 8,
+        "la2" : 2,
+        "la4" : 13.2127272727,
+        "la5" : 11.18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.78620939605709,
+          34.715478517547083
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "FID_1" : 16,
+        "StationNam" : "经南三路经开第十四大街",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 4,
+        "la2" : 8,
+        "la4" : 9.2181818181799997,
+        "la5" : 5.6727272727300004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68497750068559,
+          34.741315710855325
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "FID_1" : 23,
+        "StationNam" : "城东路陇海路站",
+        "percentage" : 80,
+        "level" : 9.4545454545500007,
+        "la1" : 5,
+        "la2" : 5,
+        "la4" : 10.4,
+        "la5" : 10.4
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66746845036383,
+          34.775679918528482
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "FID_1" : 35,
+        "StationNam" : "黄河路服装市场",
+        "percentage" : 78,
+        "level" : 9.2181818181799997,
+        "la1" : 13,
+        "la2" : 13,
+        "la4" : 12.9054545455,
+        "la5" : 10.140000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70654058923721,
+          34.721609192471433
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "FID_1" : 41,
+        "StationNam" : "航海东路公交站",
+        "percentage" : 47,
+        "level" : 5.5545454545500004,
+        "la1" : 8,
+        "la2" : 10,
+        "la4" : 3.8881818181900001,
+        "la5" : 6.1100000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66252318435382,
+          34.756776538216087
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "FID_1" : 78,
+        "StationNam" : "百货大楼",
+        "percentage" : 21,
+        "level" : 2.48181818182,
+        "la1" : 3,
+        "la2" : 12,
+        "la4" : 1.7372727272699999,
+        "la5" : 2.9781818181799999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7585526735877,
+          34.709814477906164
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "FID_1" : 109,
+        "StationNam" : "经开第八大街经南五路",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 12,
+        "la2" : 9,
+        "la4" : 7.0909090909100003,
+        "la5" : 7.7999999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68655711482275,
+          34.806840234254857
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "FID_1" : 112,
+        "StationNam" : "经三路广电南路",
+        "percentage" : 22,
+        "level" : 2.6000000000000001,
+        "la1" : 3,
+        "la2" : 7,
+        "la4" : 2.0800000000000001,
+        "la5" : 2.3399999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7741792889861,
+          34.721912391282814
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "FID_1" : 140,
+        "StationNam" : "航海路东三环",
+        "percentage" : 61,
+        "level" : 7.2090909090900004,
+        "la1" : 7,
+        "la2" : 11,
+        "la4" : 6.4881818181800002,
+        "la5" : 5.76727272727
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.64912527868859,
+          34.766769615911585
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "FID_1" : 175,
+        "StationNam" : "大石桥(南阳路)",
+        "percentage" : 51,
+        "level" : 6.0272727272699997,
+        "la1" : 12,
+        "la2" : 11,
+        "la4" : 7.23272727272,
+        "la5" : 7.23272727272
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63920278318007,
+          34.796292585166242
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "FID_1" : 183,
+        "StationNam" : "天明路群办路",
+        "percentage" : 50,
+        "level" : 5.9090909090899997,
+        "la1" : 5,
+        "la2" : 2,
+        "la4" : 5.3181818181800002,
+        "la5" : 4.7272727272699999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68306400430416,
+          34.727386820880696
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "FID_1" : 190,
+        "StationNam" : "紫藤苑社区",
+        "percentage" : 64,
+        "level" : 7.5636363636399997,
+        "la1" : 12,
+        "la2" : 6,
+        "la4" : 9.8327272727300006,
+        "la5" : 9.0763636363700009
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.59975335978895,
+          34.798398624209653
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "FID_1" : 220,
+        "StationNam" : "电厂路公交站",
+        "percentage" : 71,
+        "level" : 8.3909090909100001,
+        "la1" : 5,
+        "la2" : 2,
+        "la4" : 5.8736363636400002,
+        "la5" : 6.7127272727299996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6409697278074,
+          34.733515038442796
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "FID_1" : 226,
+        "StationNam" : "交通路保全街",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 12,
+        "la2" : 9,
+        "la4" : 4.2545454545499997,
+        "la5" : 7.0909090909100003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67585030951798,
+          34.761974836351783
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "FID_1" : 231,
+        "StationNam" : "紫荆山路顺河路",
+        "percentage" : 44,
+        "level" : 5.2000000000000002,
+        "la1" : 2,
+        "la2" : 9,
+        "la4" : 6.2400000000000002,
+        "la5" : 5.2000000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.71692371849007,
+          34.747993274602464
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "FID_1" : 297,
+        "StationNam" : "郑汴路中州大道",
+        "percentage" : 86,
+        "level" : 10.1636363636,
+        "la1" : 5,
+        "la2" : 2,
+        "la4" : 11.18,
+        "la5" : 10.1636363636
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.76976951161073,
+          34.745039320727983
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "FID_1" : 299,
+        "StationNam" : "商都路心怡路",
+        "percentage" : 32,
+        "level" : 3.7818181818199998,
+        "la1" : 13,
+        "la2" : 7,
+        "la4" : 5.2945454545499997,
+        "la5" : 3.40363636364
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.64876112740596,
+          34.745371723552566
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "FID_1" : 302,
+        "StationNam" : "火车站西广场",
+        "percentage" : 67,
+        "level" : 7.9181818181799999,
+        "la1" : 6,
+        "la2" : 7,
+        "la4" : 8.7100000000000009,
+        "la5" : 9.5018181818199992
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69285192543497,
+          34.768667825723263
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "FID_1" : 354,
+        "StationNam" : "纬二路东明路",
+        "percentage" : 19,
+        "level" : 2.2454545454499999,
+        "la1" : 11,
+        "la2" : 4,
+        "la4" : 2.6945454545400001,
+        "la5" : 1.79636363636
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62204826366909,
+          34.677345064374883
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "FID_1" : 374,
+        "StationNam" : "嵩山南路柳江路",
+        "percentage" : 61,
+        "level" : 7.2090909090900004,
+        "la1" : 12,
+        "la2" : 10,
+        "la4" : 7.9299999999999997,
+        "la5" : 8.6509090909099999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68744749488705,
+          34.780971436732266
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "FID_1" : 376,
+        "StationNam" : "红专路经三路",
+        "percentage" : 71,
+        "level" : 8.3909090909100001,
+        "la1" : 2,
+        "la2" : 10,
+        "la4" : 5.0345454545499999,
+        "la5" : 6.7127272727299996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66189271412173,
+          34.771823552780113
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "FID_1" : 411,
+        "StationNam" : "任寨北街文化路",
+        "percentage" : 23,
+        "level" : 2.7181818181800002,
+        "la1" : 6,
+        "la2" : 10,
+        "la4" : 1.6309090909099999,
+        "la5" : 3.2618181818199998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65124113019728,
+          34.705833688351603
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "FID_1" : 468,
+        "StationNam" : "京广路赣江路",
+        "percentage" : 48,
+        "level" : 5.6727272727300004,
+        "la1" : 10,
+        "la2" : 8,
+        "la4" : 5.6727272727300004,
+        "la5" : 5.1054545454599998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58328088703293,
+          34.8089086578224
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "FID_1" : 475,
+        "StationNam" : "科学大道西三环",
+        "percentage" : 90,
+        "level" : 10.6363636364,
+        "la1" : 12,
+        "la2" : 11,
+        "la4" : 7.4454545454799996,
+        "la5" : 9.5727272727599999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66924699973565,
+          34.759733654757468
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "FID_1" : 497,
+        "StationNam" : "工人新村",
+        "percentage" : 15,
+        "level" : 1.7727272727300001,
+        "la1" : 8,
+        "la2" : 2,
+        "la4" : 1.95,
+        "la5" : 2.1272727272799998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62412990939008,
+          34.804855726011461
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "FID_1" : 501,
+        "StationNam" : "南阳路刘寨",
+        "percentage" : 55,
+        "level" : 6.5,
+        "la1" : 12,
+        "la2" : 10,
+        "la4" : 7.7999999999999998,
+        "la5" : 6.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.60748592809622,
+          34.742969895660394
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "FID_1" : 516,
+        "StationNam" : "市一中",
+        "percentage" : 32,
+        "level" : 3.7818181818199998,
+        "la1" : 7,
+        "la2" : 11,
+        "la4" : 3.0254545454600001,
+        "la5" : 3.0254545454600001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63259177927355,
+          34.721477099410158
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "FID_1" : 525,
+        "StationNam" : "航海路孙八寨",
+        "percentage" : 58,
+        "level" : 6.8545454545500002,
+        "la1" : 7,
+        "la2" : 10,
+        "la4" : 6.8545454545500002,
+        "la5" : 6.1690909090900004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.78275061086809,
+          34.721878632815212
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "FID_1" : 542,
+        "StationNam" : "郑州冷轧厂",
+        "percentage" : 38,
+        "level" : 4.4909090909099998,
+        "la1" : 5,
+        "la2" : 9,
+        "la4" : 5.8381818181799998,
+        "la5" : 3.5927272727299999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69281057591132,
+          34.810242042239381
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "FID_1" : 546,
+        "StationNam" : "北三环中州大道站",
+        "percentage" : 88,
+        "level" : 10.4,
+        "la1" : 12,
+        "la2" : 6,
+        "la4" : 9.3599999999999994,
+        "la5" : 8.3200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.59371920187859,
+          34.731887147315646
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "FID_1" : 559,
+        "StationNam" : "华山路淮河路",
+        "percentage" : 33,
+        "level" : 3.8999999999999999,
+        "la1" : 6,
+        "la2" : 12,
+        "la4" : 3.5099999999999998,
+        "la5" : 4.6799999999999997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58600060621281,
+          34.669241923926492
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "FID_1" : 573,
+        "StationNam" : "侯张线侯寨",
+        "percentage" : 55,
+        "level" : 6.5,
+        "la1" : 2,
+        "la2" : 2,
+        "la4" : 4.5499999999999998,
+        "la5" : 7.1500000000000004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69343994919122,
+          34.760760851562644
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "FID_1" : 576,
+        "StationNam" : "顺河路东明路",
+        "percentage" : 67,
+        "level" : 7.9181818181799999,
+        "la1" : 10,
+        "la2" : 10,
+        "la4" : 11.085454545499999,
+        "la5" : 8.7100000000000009
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.74660073462564,
+          34.846035946494517
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "FID_1" : 590,
+        "StationNam" : "杨金路观礼路",
+        "percentage" : 58,
+        "level" : 6.8545454545500002,
+        "la1" : 2,
+        "la2" : 7,
+        "la4" : 5.4836363636399996,
+        "la5" : 8.2254545454599999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66477651897206,
+          34.82959497823601
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "FID_1" : 597,
+        "StationNam" : "郑州七中新校",
+        "percentage" : 90,
+        "level" : 10.6363636364,
+        "la1" : 4,
+        "la2" : 5,
+        "la4" : 13.8272727273,
+        "la5" : 11.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.61349787711664,
+          34.831163541110172
+        ]
+      },
+      "properties" : {
+        "FID" : 36,
+        "FID_1" : 611,
+        "StationNam" : "江山路老鸦陈",
+        "percentage" : 45,
+        "level" : 5.3181818181800002,
+        "la1" : 5,
+        "la2" : 4,
+        "la4" : 4.78636363636,
+        "la5" : 5.3181818181800002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63790832826406,
+          34.742256471089782
+        ]
+      },
+      "properties" : {
+        "FID" : 37,
+        "FID_1" : 635,
+        "StationNam" : "大学路桃源路",
+        "percentage" : 56,
+        "level" : 6.6181818181800001,
+        "la1" : 9,
+        "la2" : 11,
+        "la4" : 6.6181818181800001,
+        "la5" : 7.2800000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.70083036256949,
+          34.705797318466956
+        ]
+      },
+      "properties" : {
+        "FID" : 38,
+        "FID_1" : 683,
+        "StationNam" : "中州大道南三环站",
+        "percentage" : 73,
+        "level" : 8.6272727272700003,
+        "la1" : 2,
+        "la2" : 9,
+        "la4" : 5.1763636363599996,
+        "la5" : 8.6272727272700003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63054552966301,
+          34.748649397940426
+        ]
+      },
+      "properties" : {
+        "FID" : 39,
+        "FID_1" : 695,
+        "StationNam" : "郑州大学",
+        "percentage" : 29,
+        "level" : 3.4272727272700001,
+        "la1" : 7,
+        "la2" : 3,
+        "la4" : 2.05636363636,
+        "la5" : 3.0845454545400002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68497955456492,
+          34.721837785291299
+        ]
+      },
+      "properties" : {
+        "FID" : 40,
+        "FID_1" : 727,
+        "StationNam" : "航海路城东路",
+        "percentage" : 18,
+        "level" : 2.1272727272699998,
+        "la1" : 8,
+        "la2" : 11,
+        "la4" : 2.3399999999999999,
+        "la5" : 2.5527272727199999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63790133159111,
+          34.723200166384821
+        ]
+      },
+      "properties" : {
+        "FID" : 41,
+        "FID_1" : 780,
+        "StationNam" : "大学路航海路",
+        "percentage" : 44,
+        "level" : 5.2000000000000002,
+        "la1" : 10,
+        "la2" : 7,
+        "la4" : 6.7599999999999998,
+        "la5" : 5.2000000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7172703421685,
+          34.777955714316455
+        ]
+      },
+      "properties" : {
+        "FID" : 42,
+        "FID_1" : 798,
+        "StationNam" : "商务内环路众意路",
+        "percentage" : 83,
+        "level" : 9.8090909090899991,
+        "la1" : 11,
+        "la2" : 8,
+        "la4" : 6.86636363636,
+        "la5" : 9.8090909090899991
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.64347663804287,
+          34.83107888463563
+        ]
+      },
+      "properties" : {
+        "FID" : 43,
+        "FID_1" : 801,
+        "StationNam" : "三全路丰庆路",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 8,
+        "la2" : 2,
+        "la4" : 5.6727272727300004,
+        "la5" : 7.7999999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6399370246267,
+          34.707225216979886
+        ]
+      },
+      "properties" : {
+        "FID" : 44,
+        "FID_1" : 803,
+        "StationNam" : "郑航街建云街",
+        "percentage" : 31,
+        "level" : 3.6636363636399998,
+        "la1" : 11,
+        "la2" : 13,
+        "la4" : 2.5645454545500002,
+        "la5" : 3.2972727272800002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62169880888301,
+          34.70407442611581
+        ]
+      },
+      "properties" : {
+        "FID" : 45,
+        "FID_1" : 806,
+        "StationNam" : "黄岗寺",
+        "percentage" : 59,
+        "level" : 6.9727272727300003,
+        "la1" : 2,
+        "la2" : 2,
+        "la4" : 5.57818181818,
+        "la5" : 5.57818181818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7344277348638,
+          34.762514664191364
+        ]
+      },
+      "properties" : {
+        "FID" : 46,
+        "FID_1" : 829,
+        "StationNam" : "金水东路聚源路",
+        "percentage" : 43,
+        "level" : 5.0818181818200001,
+        "la1" : 11,
+        "la2" : 6,
+        "la4" : 6.6063636363700002,
+        "la5" : 6.0981818181799996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65576703034259,
+          34.690146091960685
+        ]
+      },
+      "properties" : {
+        "FID" : 47,
+        "FID_1" : 837,
+        "StationNam" : "南屏路高云路",
+        "percentage" : 47,
+        "level" : 5.5545454545500004,
+        "la1" : 2,
+        "la2" : 8,
+        "la4" : 7.2209090909200002,
+        "la5" : 5.5545454545500004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69954176997848,
+          34.773008916695559
+        ]
+      },
+      "properties" : {
+        "FID" : 48,
+        "FID_1" : 848,
+        "StationNam" : "纬五路未来路",
+        "percentage" : 16,
+        "level" : 1.8909090909099999,
+        "la1" : 8,
+        "la2" : 13,
+        "la4" : 1.5127272727300001,
+        "la5" : 1.70181818182
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.65866860005777,
+          34.74132129773875
+        ]
+      },
+      "properties" : {
+        "FID" : 49,
+        "FID_1" : 863,
+        "StationNam" : "一马路陇海路",
+        "percentage" : 25,
+        "level" : 2.9545454545499998,
+        "la1" : 5,
+        "la2" : 13,
+        "la4" : 3.8409090909099999,
+        "la5" : 3.5454545454600002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68188907705959,
+          34.773025453619233
+        ]
+      },
+      "properties" : {
+        "FID" : 50,
+        "FID_1" : 925,
+        "StationNam" : "纬五路政七街",
+        "percentage" : 82,
+        "level" : 9.6909090909100009,
+        "la1" : 13,
+        "la2" : 7,
+        "la4" : 12.5981818182,
+        "la5" : 9.6909090909100009
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69399967914428,
+          34.756076648490946
+        ]
+      },
+      "properties" : {
+        "FID" : 51,
+        "FID_1" : 941,
+        "StationNam" : "东明路城北路",
+        "percentage" : 41,
+        "level" : 4.84545454545,
+        "la1" : 9,
+        "la2" : 8,
+        "la4" : 2.9072727272700001,
+        "la5" : 3.8763636363599998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.60796868914285,
+          34.762839712191386
+        ]
+      },
+      "properties" : {
+        "FID" : 52,
+        "FID_1" : 944,
+        "StationNam" : "桐柏路棉纺路站",
+        "percentage" : 27,
+        "level" : 3.19090909091,
+        "la1" : 4,
+        "la2" : 11,
+        "la4" : 4.1481818181800003,
+        "la5" : 3.19090909091
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.39665051492661,
+          34.77797523135586
+        ]
+      },
+      "properties" : {
+        "FID" : 53,
+        "FID_1" : 53,
+        "StationNam" : "郑上路工业路口",
+        "percentage" : 32,
+        "level" : 3.7818181818199998,
+        "la1" : 3,
+        "la2" : 4,
+        "la4" : 4.9163636363699998,
+        "la5" : 4.53818181818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75695318270438,
+          34.514236657914743
+        ]
+      },
+      "properties" : {
+        "FID" : 54,
+        "FID_1" : 66,
+        "StationNam" : "好想你红枣小镇",
+        "percentage" : 33,
+        "level" : 3.8999999999999999,
+        "la1" : 6,
+        "la2" : 2,
+        "la4" : 3.5099999999999998,
+        "la5" : 4.29
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.6913550389929,
+          34.550409464205266
+        ]
+      },
+      "properties" : {
+        "FID" : 55,
+        "FID_1" : 86,
+        "StationNam" : "紫荆山路天辰路",
+        "percentage" : 39,
+        "level" : 4.6090909090899999,
+        "la1" : 2,
+        "la2" : 10,
+        "la4" : 2.7654545454499999,
+        "la5" : 5.5309090909099998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.63980691892043,
+          34.862640290332493
+        ]
+      },
+      "properties" : {
+        "FID" : 56,
+        "FID_1" : 94,
+        "StationNam" : "文化北路英才街",
+        "percentage" : 50,
+        "level" : 5.9090909090899997,
+        "la1" : 6,
+        "la2" : 3,
+        "la4" : 6.5,
+        "la5" : 4.7272727272699999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.81619870890076,
+          34.738068026600729
+        ]
+      },
+      "properties" : {
+        "FID" : 57,
+        "FID_1" : 96,
+        "StationNam" : "商都路圃田",
+        "percentage" : 16,
+        "level" : 1.8909090909099999,
+        "la1" : 11,
+        "la2" : 12,
+        "la4" : 2.4581818181799999,
+        "la5" : 2.26909090909
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.84793319310069,
+          34.528246512954098
+        ]
+      },
+      "properties" : {
+        "FID" : 58,
+        "FID_1" : 123,
+        "StationNam" : "机场T2航站楼",
+        "percentage" : 58,
+        "level" : 6.8545454545500002,
+        "la1" : 10,
+        "la2" : 12,
+        "la4" : 6.1690909090900004,
+        "la5" : 8.2254545454599999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.72646364866617,
+          34.884415314872889
+        ]
+      },
+      "properties" : {
+        "FID" : 59,
+        "FID_1" : 127,
+        "StationNam" : "S312七堡",
+        "percentage" : 73,
+        "level" : 8.6272727272700003,
+        "la1" : 5,
+        "la2" : 11,
+        "la4" : 7.7645454545400003,
+        "la5" : 8.6272727272700003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.81758704464765,
+          34.533262089113322
+        ]
+      },
+      "properties" : {
+        "FID" : 60,
+        "FID_1" : 141,
+        "StationNam" : "华夏大道展翔路",
+        "percentage" : 77,
+        "level" : 9.0999999999999996,
+        "la1" : 8,
+        "la2" : 3,
+        "la4" : 9.0999999999999996,
+        "la5" : 10.92
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68629762884238,
+          34.862310715477996
+        ]
+      },
+      "properties" : {
+        "FID" : 61,
+        "FID_1" : 146,
+        "StationNam" : "中州大道贾鲁河桥北",
+        "percentage" : 61,
+        "level" : 7.2090909090900004,
+        "la1" : 4,
+        "la2" : 10,
+        "la4" : 4.3254545454500004,
+        "la5" : 5.76727272727
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.72002060886679,
+          34.391978717633613
+        ]
+      },
+      "properties" : {
+        "FID" : 62,
+        "FID_1" : 149,
+        "StationNam" : "惠济门",
+        "percentage" : 71,
+        "level" : 8.3909090909100001,
+        "la1" : 7,
+        "la2" : 9,
+        "la4" : 5.0345454545499999,
+        "la5" : 7.5518181818199999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.02171115150058,
+          34.724814098161858
+        ]
+      },
+      "properties" : {
+        "FID" : 63,
+        "FID_1" : 152,
+        "StationNam" : "中牟宾馆",
+        "percentage" : 56,
+        "level" : 6.6181818181800001,
+        "la1" : 2,
+        "la2" : 11,
+        "la4" : 7.2800000000000002,
+        "la5" : 7.2800000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.82703620188326,
+          34.719266679522292
+        ]
+      },
+      "properties" : {
+        "FID" : 64,
+        "FID_1" : 161,
+        "StationNam" : "瑞绣社区东口",
+        "percentage" : 27,
+        "level" : 3.19090909091,
+        "la1" : 13,
+        "la2" : 9,
+        "la4" : 4.4672727272700001,
+        "la5" : 2.8718181818200001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.20702161506307,
+          34.791650447056384
+        ]
+      },
+      "properties" : {
+        "FID" : 65,
+        "FID_1" : 167,
+        "StationNam" : "高山农贸市场站",
+        "percentage" : 88,
+        "level" : 10.4,
+        "la1" : 6,
+        "la2" : 11,
+        "la4" : 6.2400000000000002,
+        "la5" : 8.3200000000000003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.58168634328551,
+          34.867088060979881
+        ]
+      },
+      "properties" : {
+        "FID" : 66,
+        "FID_1" : 178,
+        "StationNam" : "江山路开元路",
+        "percentage" : 61,
+        "level" : 7.2090909090900004,
+        "la1" : 10,
+        "la2" : 6,
+        "la4" : 4.3254545454500004,
+        "la5" : 8.6509090909099999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.53802280473252,
+          34.851449753272348
+        ]
+      },
+      "properties" : {
+        "FID" : 67,
+        "FID_1" : 195,
+        "StationNam" : "康桥山海云图公交站",
+        "percentage" : 61,
+        "level" : 7.2090909090900004,
+        "la1" : 4,
+        "la2" : 13,
+        "la4" : 6.4881818181800002,
+        "la5" : 5.76727272727
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 68,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.90449515320064,
+          34.728107764822639
+        ]
+      },
+      "properties" : {
+        "FID" : 68,
+        "FID_1" : 201,
+        "StationNam" : "商都路堤刘路",
+        "percentage" : 27,
+        "level" : 3.19090909091,
+        "la1" : 8,
+        "la2" : 2,
+        "la4" : 4.1481818181800003,
+        "la5" : 3.5099999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 69,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.53014687733109,
+          34.763376108002987
+        ]
+      },
+      "properties" : {
+        "FID" : 69,
+        "FID_1" : 207,
+        "StationNam" : "第九八八医院",
+        "percentage" : 59,
+        "level" : 6.9727272727300003,
+        "la1" : 10,
+        "la2" : 13,
+        "la4" : 6.9727272727300003,
+        "la5" : 8.3672727272799996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 70,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.38903728534312,
+          34.536491387140771
+        ]
+      },
+      "properties" : {
+        "FID" : 70,
+        "FID_1" : 229,
+        "StationNam" : "老电业局",
+        "percentage" : 30,
+        "level" : 3.5454545454500002,
+        "la1" : 13,
+        "la2" : 6,
+        "la4" : 4.2545454545399997,
+        "la5" : 3.5454545454500002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 71,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.39577553378709,
+          34.530076133196815
+        ]
+      },
+      "properties" : {
+        "FID" : 71,
+        "FID_1" : 230,
+        "StationNam" : "钢材市场门口",
+        "percentage" : 86,
+        "level" : 10.1636363636,
+        "la1" : 9,
+        "la2" : 4,
+        "la4" : 13.2127272727,
+        "la5" : 8.1309090908799995
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 72,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.37882014704742,
+          34.795216705283451
+        ]
+      },
+      "properties" : {
+        "FID" : 72,
+        "FID_1" : 235,
+        "StationNam" : "万山路汜河路口",
+        "percentage" : 40,
+        "level" : 4.7272727272699999,
+        "la1" : 3,
+        "la2" : 7,
+        "la4" : 4.2545454545399997,
+        "la5" : 4.7272727272699999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 73,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.37933495600845,
+          34.766181061134191
+        ]
+      },
+      "properties" : {
+        "FID" : 73,
+        "FID_1" : 236,
+        "StationNam" : "电子中专",
+        "percentage" : 51,
+        "level" : 6.0272727272699997,
+        "la1" : 11,
+        "la2" : 7,
+        "la4" : 7.23272727272,
+        "la5" : 6.6299999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 74,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.55191764460098,
+          34.367667929905721
+        ]
+      },
+      "properties" : {
+        "FID" : 74,
+        "FID_1" : 245,
+        "StationNam" : "油坊沟村",
+        "percentage" : 87,
+        "level" : 10.2818181818,
+        "la1" : 6,
+        "la2" : 4,
+        "la4" : 9.2536363636200001,
+        "la5" : 10.2818181818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 75,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.83502322539482,
+          34.56116422403062
+        ]
+      },
+      "properties" : {
+        "FID" : 75,
+        "FID_1" : 257,
+        "StationNam" : "远航路长安路",
+        "percentage" : 30,
+        "level" : 3.5454545454500002,
+        "la1" : 6,
+        "la2" : 13,
+        "la4" : 2.8363636363600002,
+        "la5" : 3.8999999999899999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 76,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.7512150994888,
+          34.454049456531131
+        ]
+      },
+      "properties" : {
+        "FID" : 76,
+        "FID_1" : 261,
+        "StationNam" : "牌坊庄村",
+        "percentage" : 69,
+        "level" : 8.15454545455,
+        "la1" : 13,
+        "la2" : 7,
+        "la4" : 10.6009090909,
+        "la5" : 6.5236363636399997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 77,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.83559138933555,
+          34.575810669035633
+        ]
+      },
+      "properties" : {
+        "FID" : 77,
+        "FID_1" : 265,
+        "StationNam" : "凌烟街公交站",
+        "percentage" : 32,
+        "level" : 3.7818181818199998,
+        "la1" : 12,
+        "la2" : 7,
+        "la4" : 4.53818181818,
+        "la5" : 4.53818181818
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 78,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.29405342423956,
+          34.827016877835355
+        ]
+      },
+      "properties" : {
+        "FID" : 78,
+        "FID_1" : 306,
+        "StationNam" : "汝南路祥云路",
+        "percentage" : 29,
+        "level" : 3.4272727272700001,
+        "la1" : 6,
+        "la2" : 2,
+        "la4" : 2.3990909090899999,
+        "la5" : 4.1127272727199999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 79,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.30012335008054,
+          34.812902492070684
+        ]
+      },
+      "properties" : {
+        "FID" : 79,
+        "FID_1" : 307,
+        "StationNam" : "新安路淮阳路",
+        "percentage" : 49,
+        "level" : 5.7909090909099996,
+        "la1" : 12,
+        "la2" : 11,
+        "la4" : 4.0536363636399999,
+        "la5" : 4.6327272727300004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 80,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.38354804287572,
+          34.795517465477189
+        ]
+      },
+      "properties" : {
+        "FID" : 80,
+        "FID_1" : 310,
+        "StationNam" : "汜河路河阴路口",
+        "percentage" : 18,
+        "level" : 2.1272727272699998,
+        "la1" : 4,
+        "la2" : 3,
+        "la4" : 1.2763636363599999,
+        "la5" : 2.5527272727199999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 81,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.53405413837655,
+          34.910443440696888
+        ]
+      },
+      "properties" : {
+        "FID" : 81,
+        "FID_1" : 324,
+        "StationNam" : "郑州技师学院",
+        "percentage" : 53,
+        "level" : 6.2636363636399999,
+        "la1" : 13,
+        "la2" : 4,
+        "la4" : 8.7690909091000009,
+        "la5" : 5.0109090909100003
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 82,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.95902114960175,
+          34.716289723882369
+        ]
+      },
+      "properties" : {
+        "FID" : 82,
+        "FID_1" : 331,
+        "StationNam" : "学苑路宝峰街",
+        "percentage" : 69,
+        "level" : 8.15454545455,
+        "la1" : 11,
+        "la2" : 12,
+        "la4" : 8.9700000000000006,
+        "la5" : 8.9700000000000006
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 83,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.42202109947689,
+          34.782961340926562
+        ]
+      },
+      "properties" : {
+        "FID" : 83,
+        "FID_1" : 373,
+        "StationNam" : "荥泽大道康泰路口",
+        "percentage" : 89,
+        "level" : 10.5181818182,
+        "la1" : 5,
+        "la2" : 13,
+        "la4" : 9.4663636363800006,
+        "la5" : 10.5181818182
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 84,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.76051397347163,
+          34.417699846772493
+        ]
+      },
+      "properties" : {
+        "FID" : 84,
+        "FID_1" : 456,
+        "StationNam" : "剑桥郡",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 12,
+        "la2" : 5,
+        "la4" : 7.7999999999999998,
+        "la5" : 5.6727272727300004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 85,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.54202675329303,
+          34.641419872028237
+        ]
+      },
+      "properties" : {
+        "FID" : 85,
+        "FID_1" : 465,
+        "StationNam" : "桐树洼",
+        "percentage" : 52,
+        "level" : 6.1454545454499998,
+        "la1" : 10,
+        "la2" : 11,
+        "la4" : 4.9163636363599998,
+        "la5" : 7.3745454545399998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 86,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97443226136528,
+          34.692251461067563
+        ]
+      },
+      "properties" : {
+        "FID" : 86,
+        "FID_1" : 512,
+        "StationNam" : "万洪路德惠街",
+        "percentage" : 19,
+        "level" : 2.2454545454499999,
+        "la1" : 6,
+        "la2" : 3,
+        "la4" : 2.2454545454499999,
+        "la5" : 2.4699999999900002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 87,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.99290053299116,
+          34.692638813610529
+        ]
+      },
+      "properties" : {
+        "FID" : 87,
+        "FID_1" : 513,
+        "StationNam" : "万洪路中兴路",
+        "percentage" : 55,
+        "level" : 6.5,
+        "la1" : 5,
+        "la2" : 13,
+        "la4" : 9.0999999999999996,
+        "la5" : 7.7999999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 88,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.86624616342328,
+          34.684769038737649
+        ]
+      },
+      "properties" : {
+        "FID" : 88,
+        "FID_1" : 536,
+        "StationNam" : "前程大道锦瑞路",
+        "percentage" : 57,
+        "level" : 6.7363636363600001,
+        "la1" : 2,
+        "la2" : 12,
+        "la4" : 6.7363636363600001,
+        "la5" : 6.7363636363600001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 89,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.8662239934847,
+          34.695748727633848
+        ]
+      },
+      "properties" : {
+        "FID" : 89,
+        "FID_1" : 537,
+        "StationNam" : "前程大道四海路",
+        "percentage" : 54,
+        "level" : 6.3818181818199999,
+        "la1" : 4,
+        "la2" : 13,
+        "la4" : 8.2963636363699997,
+        "la5" : 6.3818181818199999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 90,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.86568776631415,
+          34.706180218799865
+        ]
+      },
+      "properties" : {
+        "FID" : 90,
+        "FID_1" : 538,
+        "StationNam" : "启航路前程大道",
+        "percentage" : 32,
+        "level" : 3.7818181818199998,
+        "la1" : 13,
+        "la2" : 5,
+        "la4" : 3.7818181818199998,
+        "la5" : 3.7818181818199998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 91,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.75383553704225,
+          34.408891792758546
+        ]
+      },
+      "properties" : {
+        "FID" : 91,
+        "FID_1" : 550,
+        "StationNam" : "郑州工业应用技术学院南门",
+        "percentage" : 82,
+        "level" : 9.6909090909100009,
+        "la1" : 10,
+        "la2" : 4,
+        "la4" : 10.66,
+        "la5" : 9.6909090909100009
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 92,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.87206077424901,
+          34.736114943740205
+        ]
+      },
+      "properties" : {
+        "FID" : 92,
+        "FID_1" : 602,
+        "StationNam" : "前程大道商都路",
+        "percentage" : 39,
+        "level" : 4.6090909090899999,
+        "la1" : 6,
+        "la2" : 8,
+        "la4" : 5.0700000000000003,
+        "la5" : 4.6090909090899999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 93,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.66384482071041,
+          34.861270866878215
+        ]
+      },
+      "properties" : {
+        "FID" : 93,
+        "FID_1" : 610,
+        "StationNam" : "英才街银通路",
+        "percentage" : 85,
+        "level" : 10.0454545455,
+        "la1" : 5,
+        "la2" : 6,
+        "la4" : 13.0590909092,
+        "la5" : 9.0409090909500005
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 94,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.51418170844507,
+          34.814695798563577
+        ]
+      },
+      "properties" : {
+        "FID" : 94,
+        "FID_1" : 615,
+        "StationNam" : "紫竹路枫香街",
+        "percentage" : 31,
+        "level" : 3.6636363636399998,
+        "la1" : 11,
+        "la2" : 10,
+        "la4" : 2.1981818181800001,
+        "la5" : 3.6636363636399998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 95,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.51826593651502,
+          34.794694025533914
+        ]
+      },
+      "properties" : {
+        "FID" : 95,
+        "FID_1" : 616,
+        "StationNam" : "红叶路梧桐街",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 5,
+        "la2" : 2,
+        "la4" : 7.7999999999999998,
+        "la5" : 5.6727272727300004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 96,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.42162266738049,
+          34.753848369400949
+        ]
+      },
+      "properties" : {
+        "FID" : 96,
+        "FID_1" : 621,
+        "StationNam" : "荥泽大道泽众路口",
+        "percentage" : 34,
+        "level" : 4.0181818181800004,
+        "la1" : 10,
+        "la2" : 13,
+        "la4" : 5.6254545454500002,
+        "la5" : 4.4199999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 97,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.69449765024859,
+          34.47437885381855
+        ]
+      },
+      "properties" : {
+        "FID" : 97,
+        "FID_1" : 627,
+        "StationNam" : "高速口",
+        "percentage" : 14,
+        "level" : 1.65454545455,
+        "la1" : 8,
+        "la2" : 4,
+        "la4" : 1.65454545455,
+        "la5" : 1.8200000000100001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 98,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.02759395108357,
+          34.744605975871288
+        ]
+      },
+      "properties" : {
+        "FID" : 98,
+        "FID_1" : 639,
+        "StationNam" : "雁鸣大道首末站",
+        "percentage" : 85,
+        "level" : 10.0454545455,
+        "la1" : 3,
+        "la2" : 3,
+        "la4" : 10.0454545455,
+        "la5" : 12.054545454599999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 99,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97165577845693,
+          34.748640805707922
+        ]
+      },
+      "properties" : {
+        "FID" : 99,
+        "FID_1" : 642,
+        "StationNam" : "琼花路广惠街",
+        "percentage" : 70,
+        "level" : 8.2727272727300001,
+        "la1" : 10,
+        "la2" : 6,
+        "la4" : 10.754545454500001,
+        "la5" : 9.0999999999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 100,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.88271209712703,
+          34.732940076718826
+        ]
+      },
+      "properties" : {
+        "FID" : 100,
+        "FID_1" : 648,
+        "StationNam" : "白沙镇星联厨卫城",
+        "percentage" : 11,
+        "level" : 1.3,
+        "la1" : 12,
+        "la2" : 10,
+        "la4" : 0.91000000000000003,
+        "la5" : 1.3
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 101,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.68326690846088,
+          34.611251454124414
+        ]
+      },
+      "properties" : {
+        "FID" : 101,
+        "FID_1" : 655,
+        "StationNam" : "双湖大道文昌路",
+        "percentage" : 13,
+        "level" : 1.53636363636,
+        "la1" : 3,
+        "la2" : 9,
+        "la4" : 1.07545454545,
+        "la5" : 1.53636363636
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 102,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67811032808567,
+          34.611490708101961
+        ]
+      },
+      "properties" : {
+        "FID" : 102,
+        "FID_1" : 656,
+        "StationNam" : "双湖大道地铁站",
+        "percentage" : 79,
+        "level" : 9.3363636363599998,
+        "la1" : 2,
+        "la2" : 3,
+        "la4" : 6.5354545454500004,
+        "la5" : 9.3363636363599998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 103,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97743283379052,
+          34.685659889862869
+        ]
+      },
+      "properties" : {
+        "FID" : 103,
+        "FID_1" : 718,
+        "StationNam" : "比克大道德惠街",
+        "percentage" : 85,
+        "level" : 10.0454545455,
+        "la1" : 3,
+        "la2" : 5,
+        "la4" : 10.0454545455,
+        "la5" : 10.0454545455
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 104,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.50382108127884,
+          34.815412058424023
+        ]
+      },
+      "properties" : {
+        "FID" : 104,
+        "FID_1" : 728,
+        "StationNam" : "郑州轻工业大学北门",
+        "percentage" : 89,
+        "level" : 10.5181818182,
+        "la1" : 6,
+        "la2" : 10,
+        "la4" : 13.6736363637,
+        "la5" : 10.5181818182
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 105,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          114.01365680982006,
+          34.726192429530961
+        ]
+      },
+      "properties" : {
+        "FID" : 105,
+        "FID_1" : 750,
+        "StationNam" : "中医院",
+        "percentage" : 41,
+        "level" : 4.84545454545,
+        "la1" : 5,
+        "la2" : 5,
+        "la4" : 3.3918181818200002,
+        "la5" : 5.8145454545400002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 106,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.38404772488283,
+          34.750631853587556
+        ]
+      },
+      "properties" : {
+        "FID" : 106,
+        "FID_1" : 777,
+        "StationNam" : "中原西路乔楼卫生院",
+        "percentage" : 25,
+        "level" : 2.9545454545499998,
+        "la1" : 10,
+        "la2" : 2,
+        "la4" : 4.1363636363699996,
+        "la5" : 2.36363636364
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 107,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.77409071922479,
+          34.877184536498568
+        ]
+      },
+      "properties" : {
+        "FID" : 107,
+        "FID_1" : 784,
+        "StationNam" : "石桥村北口",
+        "percentage" : 28,
+        "level" : 3.30909090909,
+        "la1" : 2,
+        "la2" : 8,
+        "la4" : 2.6472727272699998,
+        "la5" : 3.6400000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 108,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.74891175074775,
+          34.417834244945347
+        ]
+      },
+      "properties" : {
+        "FID" : 108,
+        "FID_1" : 818,
+        "StationNam" : "交警大队",
+        "percentage" : 65,
+        "level" : 7.6818181818199998,
+        "la1" : 13,
+        "la2" : 5,
+        "la4" : 9.2181818181799997,
+        "la5" : 8.4499999999999993
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 109,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.71389021119097,
+          34.400586944876856
+        ]
+      },
+      "properties" : {
+        "FID" : 109,
+        "FID_1" : 820,
+        "StationNam" : "安居小区",
+        "percentage" : 37,
+        "level" : 4.3727272727299997,
+        "la1" : 11,
+        "la2" : 7,
+        "la4" : 3.0609090909100001,
+        "la5" : 4.3727272727299997
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 110,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.67617289959877,
+          34.665738696134838
+        ]
+      },
+      "properties" : {
+        "FID" : 110,
+        "FID_1" : 858,
+        "StationNam" : "南四环中州大道(东行)",
+        "percentage" : 77,
+        "level" : 9.0999999999999996,
+        "la1" : 5,
+        "la2" : 4,
+        "la4" : 6.3700000000000001,
+        "la5" : 9.0999999999999996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 111,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          112.97729155114661,
+          34.757583025342207
+        ]
+      },
+      "properties" : {
+        "FID" : 111,
+        "FID_1" : 877,
+        "StationNam" : "金博商厦",
+        "percentage" : 60,
+        "level" : 7.0909090909100003,
+        "la1" : 12,
+        "la2" : 9,
+        "la4" : 9.9272727272699992,
+        "la5" : 7.7999999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 112,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.36665672012509,
+          34.53176351265369
+        ]
+      },
+      "properties" : {
+        "FID" : 112,
+        "FID_1" : 931,
+        "StationNam" : "长宁街",
+        "percentage" : 25,
+        "level" : 2.9545454545499998,
+        "la1" : 3,
+        "la2" : 2,
+        "la4" : 2.9545454545499998,
+        "la5" : 3.5454545454600002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 113,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.80294192606057,
+          34.758245945937382
+        ]
+      },
+      "properties" : {
+        "FID" : 113,
+        "FID_1" : 935,
+        "StationNam" : "商鼎路徐庄街",
+        "percentage" : 63,
+        "level" : 7.4454545454499996,
+        "la1" : 8,
+        "la2" : 9,
+        "la4" : 10.4236363636,
+        "la5" : 7.4454545454499996
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 114,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.62163766957025,
+          34.667528553718888
+        ]
+      },
+      "properties" : {
+        "FID" : 114,
+        "FID_1" : 952,
+        "StationNam" : "嵩山南路南四环",
+        "percentage" : 56,
+        "level" : 6.6181818181800001,
+        "la1" : 11,
+        "la2" : 9,
+        "la4" : 3.9709090909100002,
+        "la5" : 7.9418181818200004
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 115,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.61028357473135,
+          34.907776271665661
+        ]
+      },
+      "properties" : {
+        "FID" : 115,
+        "FID_1" : 962,
+        "StationNam" : "森林湖公交站",
+        "percentage" : 67,
+        "level" : 7.9181818181799999,
+        "la1" : 13,
+        "la2" : 2,
+        "la4" : 8.7100000000000009,
+        "la5" : 8.7100000000000009
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 116,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          113.97024597766149,
+          34.73386840622436
+        ]
+      },
+      "properties" : {
+        "FID" : 116,
+        "FID_1" : 967,
+        "StationNam" : "康桥香溪里",
+        "percentage" : 15,
+        "level" : 1.7727272727300001,
+        "la1" : 4,
+        "la2" : 13,
+        "la4" : 1.7727272727300001,
+        "la5" : 1.95
+      }
+    }
+  ]
+}
